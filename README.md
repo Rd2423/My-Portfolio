@@ -7,7 +7,7 @@ Later on I realized that I was not making progress and I decided to go to a codi
 I had the chance to have a really good instructor, who had a lot of experience in programming.
 
 
-In the bootcamp I've learned how to build an app from frontend to the backend, optimizing apps, deploy and maintaining apps.
+In the bootcamp I've learned how to build an app from frontend to the backend, optimizing apps, deploying and maintaining apps.
 
 ## Find me on
 <p align="center">
