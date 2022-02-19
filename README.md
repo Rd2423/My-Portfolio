@@ -9,6 +9,10 @@ I had the chance to have a really good instructor, who had a lot of experience i
 
 In the bootcamp I've learned how to build an app from frontend to the backend, optimizing apps, deploying and maintaining apps.
 
+## Check out my page 
+
+https://rd2423.github.io/My-Portfolio/
+
 ## Find me on
 <p align="center">
   <a href="https://www.linkedin.com/in/rayan-diouf-3b3095200/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedIn" height="40" style="vertical-align:top; margin:4px"></a>
@@ -39,6 +43,4 @@ In the bootcamp I've learned how to build an app from frontend to the backend, o
   
   </p>
   
-## Check out my page 
 
-https://rd2423.github.io/My-Portfolio/
